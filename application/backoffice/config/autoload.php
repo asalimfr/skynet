@@ -112,5 +112,19 @@ $autoload['language'] = array();
 $autoload['model'] = array();
 
 
+
+/*
+ | -------------------------------------------------------------------
+ |  Auto-load Libraries
+ | -------------------------------------------------------------------
+ |
+ */
+
+/* Authentification libraries */
+//$this->load->library("Aauth");
+
+
+
+
 /* End of file autoload.php */
 /* Location: ./application/config/autoload.php */
